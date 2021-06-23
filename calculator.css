@@ -1,3 +1,43 @@
+
 body{
-    background-color: blueviolet;
+    background-color: grey;
+}
+
+button{
+    height: 60px;
+    width: 90px;
+    font-size: 20px;
+    border-radius: 20px;
+    background-color: brown;
+}
+
+.container{
+    text-align: center;
+}
+
+table{
+    position: relative;
+    margin: auto;
+    margin-top: 15px;
+    
+}
+
+input{
+    font-size: 30px;
+    border-radius: 20px;
+    margin-top: 10px;
+    
+                                                
+}
+
+.calculator{
+    background-color: aqua;
+    display: inline-block;
+    border: thin black 5px;
+    padding: 7px;
+    border-radius: 10px;
+}
+
+h1{
+    color: white;
 }
